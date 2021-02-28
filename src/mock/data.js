@@ -47,7 +47,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: 'Note Pad',
     info: '',
     info2: '',
     url: '',
