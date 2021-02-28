@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'React Games',
-    info: '',
+    info: 'Built with React.js, utilizing JWT Authentication and React-Table. React Games is a great place to challenge yourself as well as your peers to see who can get the highest scores.',
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
