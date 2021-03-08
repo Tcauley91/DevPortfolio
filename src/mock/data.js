@@ -47,11 +47,11 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: 'Note Pad',
-    info: '',
+    title: 'Day Planner',
+    info: 'Keep track of your daily appointments with ease, this day planner will actively track the time throughout the day letting you know if you are or are not on schedule with your appointments.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://tcauley91.github.io/Day-Planner/',
+    repo: 'https://github.com/Tcauley91/Day-Planner', // if no repo, the button will not show up
   },
 ];
 
