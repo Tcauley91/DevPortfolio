@@ -53,6 +53,15 @@ export const projectsData = [
     url: 'https://tcauley91.github.io/Day-Planner/',
     repo: 'https://github.com/Tcauley91/Day-Planner', // if no repo, the button will not show up
   },
+  {
+  id: nanoid(),
+    img: 'project.jpg',
+    title: 'Progressive Budget',
+    info: 'Keep track of your spending habbits or profit and losses with this easy to use budget tracketr.',
+    info2: '',
+    url: 'https://secret-citadel-22710.herokuapp.com/',
+    repo: 'https://github.com/Tcauley91/Progressive-Budget', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
