@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'Feed Me is a solution to the hardest question of the day; what am I going to eat? Feed Me can populate nearby restaurants or if you are would prefer to cook; it can produce over 360,000 recipes. This application is powered jQuery and JavaScript utilizing two APIs, Spoonacular & Zomato.',
     info2: '',
     url: 'https://tcauley91.github.io/Feed-Me/',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/Tcauley91/Feed-Me', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -42,25 +42,16 @@ export const projectsData = [
     info: 'Built with React.js, utilizing JWT Authentication and React-Table. React Games is a great place to challenge yourself as well as your peers to see who can get the highest scores.',
     info2: '',
     url: 'https://reactgames.herokuapp.com/',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: 'Day Planner',
-    info: 'Keep track of your daily appointments with ease, this day planner will actively track the time throughout the day letting you know if you are or are not on schedule with your appointments.',
-    info2: '',
-    url: 'https://tcauley91.github.io/Day-Planner/',
-    repo: 'https://github.com/Tcauley91/Day-Planner', // if no repo, the button will not show up
+    repo: 'https://github.com/Tcauley91/React-Games', // if no repo, the button will not show up
   },
   {
   id: nanoid(),
-    img: 'project.jpg',
-    title: 'Progressive Budget',
-    info: 'Keep track of your spending habbits or profit and losses with this easy to use budget tracketr.',
+    img: 'weather.jpg',
+    title: 'Weather Dashboard',
+    info: 'Thinking of traveling to a different city but need to check the weather? This weather dashboard utilized the Open Weather API to grab real time data for any city you would like to know the weather of.',
     info2: '',
-    url: 'https://secret-citadel-22710.herokuapp.com/',
-    repo: 'https://github.com/Tcauley91/Progressive-Budget', // if no repo, the button will not show up
+    url: 'https://tcauley91.github.io/Weather-Dashboard/',
+    repo: 'https://github.com/Tcauley91/Weather-Dashboard', // if no repo, the button will not show up
   },
 ];
 
