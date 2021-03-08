@@ -31,8 +31,8 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Feed Me!',
     info: 'Feed Me is a solution to the hardest question of the day; what am I going to eat? Feed Me can populate nearby restaurants or if you are would prefer to cook; it can produce over 360,000 recipes. This application is powered jQuery and JavaScript utilizing two APIs, Spoonacular & Zomato.',
-    info2: 'https://tcauley91.github.io/Feed-Me/',
-    url: '',
+    info2: '',
+    url: 'https://tcauley91.github.io/Feed-Me/',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'React Games',
     info: 'Built with React.js, utilizing JWT Authentication and React-Table. React Games is a great place to challenge yourself as well as your peers to see who can get the highest scores.',
     info2: '',
-    url: '',
+    url: 'https://reactgames.herokuapp.com/',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
