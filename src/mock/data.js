@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Feed Me!',
     info: 'Feed Me is a solution to the hardest question of the day; what am I going to eat? Feed Me can populate nearby restaurants or if you are would prefer to cook; it can produce over 360,000 recipes. This application is powered jQuery and JavaScript utilizing two APIs, Spoonacular & Zomato.',
-    info2: '',
+    info2: 'https://tcauley91.github.io/Feed-Me/',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
