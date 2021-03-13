@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
   id: nanoid(),
-    img: 'weather.jpg',
+    img: 'weatherdash.jpg',
     title: 'Weather Dashboard',
     info: 'Thinking of traveling to a different city but need to check the weather? This weather dashboard utilized the Open Weather API to grab real time data for any city you would like to know the weather of.',
     info2: '',
